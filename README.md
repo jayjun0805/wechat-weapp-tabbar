@@ -10,3 +10,5 @@ wechat weapp tabbar template.
 Demo 效果图：
 
 <img src="https://github.com/jayjun0805/wechat-weapp-tabbar/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg" width="400">
+
+<img src="http://weui.moocba.com/img/bottom.png" >
