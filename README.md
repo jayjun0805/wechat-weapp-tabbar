@@ -1,7 +1,7 @@
 # wechat-weapp-tabbar
 wechat weapp tabbar template.
 
-本 DEMO 是一个微信小程序实现自定义底部 tabBar 的案例，主要是照着享物说小程序做的，效果如下图所示：
+本 DEMO 是一个微信小程序自定义底部 tabBar 的案例，主要是照着享物说小程序做的，效果如下图所示：
 
 享物说效果图：
 
