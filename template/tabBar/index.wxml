@@ -1,0 +1,17 @@
+<template name="tabBar">
+  <view class="tabBar">
+    <block wx:for="{{tabBar}}" wx:key="tabBar">
+        <view class="tabBar-item">
+            <navigator hover-class="none" open-type="{{item.openType}}" url="{{item.pagePath}}">
+                <view class="{{item.middle ? 'left-hide' :''}}"></view>
+                <view class="{{item.middle ? 'bottom-hide' :''}}"></view>
+                <view class="{{item.middle ? 'right-hide' :''}}"></view>
+                <view class="{{item.middle ? 'tabBar-icon-wrap' :''}}">
+                  <image mode="aspectFit" class="tabBar-icon" style="width:{{item.width}}rpx;height:{{item.height}}rpx;" src='{{ item.selected ? item.selectedIconPath : item.iconPath }}'></image>
+                </view>
+                <view class="{{item.selected ? 'tabBar-text' :''}}">{{item.text}}</view>
+            </navigator>
+        </view>
+    </block>
+ </view>
+</template>
