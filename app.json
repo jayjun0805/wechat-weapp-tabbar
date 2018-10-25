@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/my/my",
+    "pages/add/add"
+  ],
+  "window":{
+    "navigationBarBackgroundColor": "#01C13A",
+    "navigationBarTextStyle": "light",
+    "navigationBarTitleText": "自定义底部tabBar"
+  }
+}
