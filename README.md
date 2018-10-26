@@ -11,6 +11,6 @@ Demo 效果图：
 
 <img src="https://github.com/jayjun0805/wechat-weapp-tabbar/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg" width="400">
 
-一大波小程序开发免费直播课正向你袭来，不想错过，可关注下方二维码！！！
+一大波小程序开发免费直播课正向你袭来，不想错过的话，可关注下方二维码！！！
 
 <img src="http://weui.moocba.com/img/bottom.png" >
